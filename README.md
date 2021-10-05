@@ -18,7 +18,7 @@ There are current available technologies and resources available online for teac
 - [Community Characteristics](Documentation/Community_characteristics.pdf)
 - [Technology Configuration Inventory](Documentation/Technology_Configuration_Inventory.pdf)
 - [Business Case](Documentation/Business_Case.pdf)
-- [Stakeholder Analysis](Documentation/Business_Case.pdf)
+- [Stakeholder Analysis](Documentation/Business%20Case.pdf)
 
 # Vlogs
 <a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a>
