@@ -2,7 +2,9 @@
 <p> Carter Brezinski </p>
 <p> ENSE 405 </p>
 <p> Fall 2021 </p>
+
 ---
+
 # Project Idea
 The idea behind the In Our City website forum is to be a resource for teachers to tell their stories from their classrooms. The hope is to be able to take the stories that help shed light on the inequalities between inner city and newly developed schools, and feature them on a front page of 'focus stories', where they will be the first stories readily available to those who view the page. 
 
