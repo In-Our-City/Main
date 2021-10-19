@@ -19,6 +19,12 @@ There are current available technologies and resources available online for teac
 - [Technology Configuration Inventory](Documentation/Technology%20Configuration%20Inventory.pdf)
 - [Business Case](Documentation/Business%20Case.pdf)
 - [Stakeholder Analysis](Documentation/Stakeholder%20Analysis.pdf)
-
+- [Class Diagram](Documentation/Class%20Diagram.pdf)
+- [Use Case Diagram](Documentation/Use%20Case%20Diagram.pdf)
+- [Lo-Fi Prototype](Documentation/Lofi%20Prototype.pdf)
+- [Drafting an Emerging Picture](Drafting%20an%20emerging%20picture.pdf)
+- [Project Scope Statement](Documentation/Project%20Scope%20Statement.pdf)
+- [Project Requirements](Documentation/Project%20Requirements.pdf)
+- [Activity-Based Schedule](Documentation/Activity-Based%20Schedule.pdf)
 # Vlogs
 <a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a>
