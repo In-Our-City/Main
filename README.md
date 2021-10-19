@@ -22,7 +22,7 @@ There are current available technologies and resources available online for teac
 - [Class Diagram](Documentation/Class%20Diagram.pdf)
 - [Use Case Diagram](Documentation/Use%20Case%20Diagram.pdf)
 - [Lo-Fi Prototype](Documentation/Lofi%20Prototype.pdf)
-- [Drafting an Emerging Picture](Drafting%20an%20emerging%20picture.pdf)
+- [Drafting an Emerging Picture](Documentation/Drafting%20an%20emerging%20picture.pdf)
 - [Project Scope Statement](Documentation/Project%20Scope%20Statement.pdf)
 - [Project Requirements](Documentation/Project%20Requirements.pdf)
 - [Activity-Based Schedule](Documentation/Activity-Based%20Schedule.pdf)
