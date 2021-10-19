@@ -15,10 +15,10 @@ In my prior work experience and thanks to the teachers I have spoken to so far, 
 There are current available technologies and resources available online for teachers to access and utilize to tell their stories and vent their frustrations, but there is nothing focused and tailored to teachers in the Regina area. The business opportunity I see in this is that my website I plan to develop could be a resource readily available and given to teachers
 
 # Documentation
--
--
--
--
+- [Community Characteristics](Documentation/Community%20characteristics.pdf)
+- [Technology Configuration Inventory](Documentation/Technology%20Configuration%20Inventory.pdf)
+- [Business Case](Documentation/Business%20Case.pdf)
+- [Stakeholder Analysis](Documentation/Stakeholder%20Analysis.pdf)
 
 # Vlogs
 <a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a>
