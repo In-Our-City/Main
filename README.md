@@ -27,5 +27,5 @@ There are current available technologies and resources available online for teac
 - [Project Requirements](Documentation/Project%20Requirements.pdf)
 - [Activity-Based Schedule](Documentation/Activity-Based%20Schedule.pdf)
 # Vlogs
-<a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a>
+<a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a> </br>
 <a href="https://www.youtube.com/watch?v=0tkPcT0gsms">MVP 1 Demo</a>
