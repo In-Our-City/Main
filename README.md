@@ -26,6 +26,7 @@ There are current available technologies and resources available online for teac
 - [Project Scope Statement](Documentation/Project%20Scope%20Statement.pdf)
 - [Project Requirements](Documentation/Project%20Requirements.pdf)
 - [Activity-Based Schedule](Documentation/Activity-Based%20Schedule.pdf)
+- [Project Status Report - MVP 1](Documentation/Project%20Status%20Report%20-%20MVP%201.pdf)
 # Vlogs
 <a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a> </br>
 <a href="https://www.youtube.com/watch?v=0tkPcT0gsms">MVP 1 Demo</a>
