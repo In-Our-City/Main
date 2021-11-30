@@ -29,7 +29,10 @@ There are current available technologies and resources available online for teac
 - [Project Status Report - MVP 1](Documentation/Project%20Status%20Report%20-%20MVP%201.pdf)
 - [Project Status Report - MVP 2](Documentation/Project%20Status%20Report%20-%20MVP%202.pdf)
 - [Class Concepts](Documentation/Class%20Concepts.pdf)
+- [Project Status Report - MVP 3](Documentation/P09%20-%20405%20-%20Project%20Status%20Report%20MVP%203.pdf)
+- [Final Product Class Concepts - MVP 3 ](Documentation/ENSE%20405%20MVP%203%20Class%20Concepts.pdf)
 
 # Vlogs
 <a href="https://youtu.be/yaGKpfKp3qk">Vlog #1</a> </br>
-<a href="https://www.youtube.com/watch?v=0tkPcT0gsms">MVP 1 Demo</a>
+<a href="https://www.youtube.com/watch?v=0tkPcT0gsms">MVP 1 Demo</a> </br>
+<a href="https://www.youtube.com/watch?v=oyKWSrD_J5w">Commercial</a> 
